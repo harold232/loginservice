@@ -20,5 +20,5 @@ public class User {
     private String password;
     private String telefono;
     private String test;
-    private String carrera;
+
 }
