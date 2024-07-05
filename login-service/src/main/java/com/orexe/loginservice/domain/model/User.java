@@ -22,4 +22,6 @@ public class User {
     private String telefono;
     private String test;
 
+    public User() {
+    }
 }
